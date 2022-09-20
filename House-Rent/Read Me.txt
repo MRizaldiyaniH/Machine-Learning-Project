@@ -1,0 +1,3 @@
+Project ini bertujuan untuk melakukan prediksi harga sewa tempat tinggal. 
+Data yang digunakan merupakan data harga sewa tempat tinggal di India yang
+diperoleh melalui kaggle.
