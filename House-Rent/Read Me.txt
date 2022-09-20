@@ -1,3 +1,1 @@
-Project ini bertujuan untuk melakukan prediksi harga sewa tempat tinggal. 
-Data yang digunakan merupakan data harga sewa tempat tinggal di India yang
-diperoleh melalui kaggle.
+Project ini bertujuan untuk melakukan prediksi harga sewa tempat tinggal. Data yang digunakan merupakan data harga sewa tempat tinggal di India yang diperoleh melalui kaggle. Pada project ini saya menggunakan Random Forest sebagai model untuk melakukan regresi. Terdapat dua buah file yaitu file pre-processing yang berisikan proses pre-processing serta file modeling yang berisikan proses pemodelan.
